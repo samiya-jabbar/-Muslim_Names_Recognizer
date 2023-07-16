@@ -1,4 +1,4 @@
-# -Muslim_Names_Recognizer
+# Muslim_Names_Recognizer
 Muslim Names Recognizer is model that is trained using SpaCy. It servers a purpose to recognize Muslim Names Entity. 
 Example: Dialogflow Default entity of Persons Names doesn't recognize Muslims names properly so this model is helpful.
 
