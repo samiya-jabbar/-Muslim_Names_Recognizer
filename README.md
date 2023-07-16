@@ -2,17 +2,17 @@
 Muslim Names Recognizer is model that is trained using SpaCy. It servers a purpose to recognize Muslim Names Entity. 
 Example: Dialogflow Default entity of Persons Names doesn't recognize Muslims names properly so this model is helpful.
 
-## Tools Used:
-# Jupyter Notebook: 
+# Tools Used:
+## Jupyter Notebook: 
 To perform working /training my model
-# SpaCy: 
+## SpaCy: 
 Open-source library for NLP in Python, providing pre-trained models and tools for tasks named entity recognition.
-# NER Annotator: 
+## NER Annotator: 
 For annotation 
-# Dialogflow: 
+## Dialogflow: 
 For chatbot 
-# Flask: 
+## Flask: 
 To write a webhook
-# Ngrok: 
+## Ngrok: 
 To expose the locally available flask app so that Dialogflow can access it.
 
